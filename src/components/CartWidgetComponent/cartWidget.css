@@ -1,0 +1,30 @@
+.navbar-cart {
+    margin-left: 8rem;
+    display: flex;
+
+  }
+
+  .cart-icon {
+    font-size: 25px;
+    margin-right: 5px;
+  }
+
+  /* .cart-count {
+    background-color:white;
+    color:  #333;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 2px 5px;
+    border-radius: 50%;
+  } */
+
+  .cart-count {
+    background-color: white; /* Color de fondo */
+    color: #333; /* Color de texto */
+    font-size: 17px;
+    font-weight: bold;
+    padding: 4px 8px; /* Espaciado interior */
+    border-radius: 50%; 
+  }
+
+  

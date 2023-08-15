@@ -1,0 +1,14 @@
+.container h2 {
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  
+  
